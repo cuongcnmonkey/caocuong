@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\HelloWord",
+    "\\HelloWord\\Classes",
+    "\\HelloWord\\cocos2d",
+    "\\HelloWord\\cocos2d\\cocos"
+  ],
+  "SelectedNode": "\\HelloWord\\Classes\\SplashScene.cpp",
+  "PreviewInSolutionExplorer": false
+}
